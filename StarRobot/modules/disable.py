@@ -351,7 +351,7 @@ if is_module_loaded(FILENAME):
 
     """
 
-    __mod_name__ = "✨Dɪsᴀʙʟᴇ✨"
+    __mod_name__ = "⚡Dɪsᴀʙʟᴇ⚡"
 
 else:
     DisableAbleCommandHandler = CommandHandler
