@@ -138,7 +138,7 @@ _ᴋᴇᴇᴘ ɪɴ ᴍɪɴᴅ_: ᴛᴏ ғɪɴᴅ ᴛʜᴇ ᴛᴀɴɢᴇɴᴛ ʟ�
 
 """
 
-__mod_name__ = "✨Mᴀᴛʜs✨"
+__mod_name__ = "🌹Mᴀᴛʜs🌹"
 
 SIMPLIFY_HANDLER = DisableAbleCommandHandler("math", simplify)
 FACTOR_HANDLER = DisableAbleCommandHandler("factor", factor)
