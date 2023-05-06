@@ -336,7 +336,7 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="tg://user?id={OWNER_ID}"
+                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/its_star_boi"
                             ),
                             InlineKeyboardButton(
                                 "Dɪsᴀsᴛᴇʀ", url="https://t.me/Star_X_Network"
@@ -362,7 +362,7 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="tg://user?id={OWNER_ID}"
+                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/its_star_boi"
                             ),
                             InlineKeyboardButton(
                                 "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/Star_X_Network"
