@@ -8,7 +8,7 @@ __help__ = """
 » /webss *:* sᴇɴᴅs ᴛʜᴇ sᴄʀᴇᴇɴsʜᴏᴛ ᴏғ ᴛʜᴇ ɢɪᴠᴇɴ ᴜʀʟ.
 
 """
-__mod_name__ = "⚡Wᴇʙsʜᴏᴛ⚡"
+__mod_name__ = "✨Wᴇʙsʜᴏᴛ✨"
 
 
 @app.on_message(filters.command("webss"))
