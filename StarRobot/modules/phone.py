@@ -7,7 +7,7 @@ from StarRobot import dispatcher
 from StarRobot.modules.helper_funcs.alternate import send_message
 from StarRobot.modules.helper_funcs.chat_status import user_admin
 
-__mod_name__ = "✨𝙿ʜᴏɴᴇ✨"
+__mod_name__ = "🌹𝙿ʜᴏɴᴇ🌹"
 __help__ = """
 » /phone ꜰɪʟʟ ᴀɴʏ ᴍᴏʙɪʟᴇ ɴᴜᴍʙᴇʀ ᴛᴏ ᴄʜᴇᴄᴋ ɪɴꜰᴏ.
 
