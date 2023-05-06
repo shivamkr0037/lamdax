@@ -236,7 +236,7 @@ async def cancel_spam(event):
         return await event.respond("♦𝐒𝐭𝐨𝐩𝐩𝐞𝐝 𝐌𝐞𝐧𝐭𝐢𝐨𝐧 𝐁𝐚𝐛𝐲♦")
 
 
-__mod_name__ = "⚡Tᴀɢ⚡"
+__mod_name__ = "✨Tᴀɢ✨"
 __help__ = """
 ──「  ᴏɴʟʏ ғᴏʀ ᴀᴅᴍɪɴs 」──
 
