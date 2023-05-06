@@ -591,7 +591,7 @@ __help__ = """
 
 """
 
-__mod_name__ = "✨Lᴏᴄᴋs✨"
+__mod_name__ = "🌹Lᴏᴄᴋs🌹"
 
 LOCKTYPES_HANDLER = DisableAbleCommandHandler("locktypes", locktypes)
 LOCK_HANDLER = CommandHandler("lock", lock, pass_args=True)  # , filters=Filters.group)
