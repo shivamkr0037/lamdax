@@ -205,7 +205,7 @@ sᴇᴛᴛɪɴɢ ᴛʜᴇ ʟᴏɢ ᴄʜᴀɴɴᴇʟ ɪs ᴅᴏɴᴇ ʙʏ:
 
 """
 
-    __mod_name__ = "✨L-Lᴏɢs✨"
+    __mod_name__ = "🌹L-Lᴏɢs🌹"
 
     LOG_HANDLER = CommandHandler("logchannel", logging)
     SET_LOG_HANDLER = CommandHandler("setlog", setlog)
