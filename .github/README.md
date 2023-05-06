@@ -142,7 +142,7 @@ OWNER_ID =  sᴛᴀʀᴛ @Star_X_Robot & ᴛʏᴘᴇ /id
 <a href="https://telegram.me/Star_X_Support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/its_star_boi"><img src="https://img.shields.io/badge/Abishnoi%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/its_star_boi"><img src="https://img.shields.io/badge/Star Boi%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
