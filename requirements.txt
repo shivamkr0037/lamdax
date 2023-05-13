@@ -45,7 +45,7 @@ tgcrypto==1.2.5
 wikipedia==1.4.0
 # update modules extra modules then kanged
 ujson
-phlogo
+phlogo==0.6
 kanged
 gtts
 heroku3
