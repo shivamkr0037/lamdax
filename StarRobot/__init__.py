@@ -9,6 +9,7 @@ import telegram.ext as tg
 from aiohttp import ClientSession
 from pyrogram import Client, errors
 from telethon import TelegramClient
+from StarRobot.quotstuff.quotapi import Quotly
 
 StartTime = time.time()
 
@@ -177,3 +178,9 @@ from StarRobot.modules.helper_funcs.handlers import (
 tg.RegexHandler = CustomRegexHandler
 tg.CommandHandler = CustomCommandHandler
 tg.MessageHandler = CustomMessageHandler
+
+#-------Quote-------
+
+quotly = Quotly()
+
+#-------------------
