@@ -43,7 +43,9 @@ telegraph==2.2.0
 telethon==1.28.5
 tgcrypto==1.2.5
 wikipedia==1.4.0
-# update modules extra modules then kanged
+# update modules extra modules then 
+phlogo
+kanged
 gtts
 heroku3
 alphabet_detector
