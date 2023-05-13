@@ -74,7 +74,7 @@ COPY . /StarRobot
 WORKDIR /StarRobot
 
 # Install requirements
-RUN pip3 install -U -r requirements.txt
+RUN pip3 install -U "pip < 22" setuptools wheel && pip3 install -U -r requirements.txt
 
 # Starting Worker
 CMD ["python3","-m","StarRobot"]
