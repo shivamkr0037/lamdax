@@ -44,7 +44,6 @@ telethon==1.28.5
 tgcrypto==1.2.5
 wikipedia==1.4.0
 phlogo==0.6
-kanged
 gtts
 heroku3
 alphabet_detector
