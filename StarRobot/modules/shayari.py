@@ -2,7 +2,7 @@
 from pyrogram import Client, filters
 import random
 import asyncio
-from StarRobot import app
+from StarRobot import Client as app
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 SHAYRI = [ " 🌺**बहुत अच्छा लगता है तुझे सताना और फिर प्यार से तुझे मनाना।**🌺 \n\n**🥀Bahut aacha lagta hai tujhe satana Aur fir pyar se tujhe manana.🥀** ",
